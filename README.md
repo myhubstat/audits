@@ -1,6 +1,6 @@
 # Smart Contract & Protocol Security Portfolio (`@myhubstat`)
 
-Independent security research, public vulnerability disclosures, Foundry PoC harnesses, and upstream remediation pull requests by **Maaz (`@myhubstat`)**.
+Independent security research, public vulnerability disclosures, Foundry PoC harnesses, and upstream remediation pull requests by ** (`@myhubstat`)**.
 
 - **Focus Areas:** EVM / Solidity Smart Contracts (ERC-20, ERC-223, ERC-4626, EIP-7702, AMM/DEX Concentrating Liquidity, Lending & Vault Accounting Invariants), Rust L1/L2 Confidential & Stealth Wallet Security, and Static Analysis / Compiler Soundness.
 - **Methodology:** Manual line-by-line architectural review combined with stateful Foundry fork PoCs, boundary math verification, and custom AST static analysis.
